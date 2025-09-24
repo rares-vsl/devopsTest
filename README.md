@@ -1,2 +1,3 @@
-# Template-for-TypeScript-projects
-A template repository for kickstarting the development of TypeScript projects
+# Dev ops test
+
+repo for testing branches
